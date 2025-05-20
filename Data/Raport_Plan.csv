@@ -1,0 +1,313 @@
+,Lokalizacja,M,Usługa,P_2025,W_2025
+0,Brama Zachodnia,1,Badania labolatoryjne,0.0,0.0
+1,Brama Zachodnia,1,EUS,0.0,0.0
+2,Brama Zachodnia,1,Endoskopie,0.0,600.0
+3,Brama Zachodnia,1,Inne,0.0,0.0
+4,Brama Zachodnia,1,Konsultacje,0.0,0.0
+5,Brama Zachodnia,1,Patomorfologia,0.0,0.0
+6,Brama Zachodnia,1,RIRS,0.0,0.0
+7,Brama Zachodnia,1,RTG,0.0,0.0
+8,Brama Zachodnia,1,TK,0.0,0.0
+9,Brama Zachodnia,1,TX wysp,0.0,0.0
+10,Brama Zachodnia,1,USG,0.0,0.0
+11,Brama Zachodnia,1,Zabiegi,0.0,0.0
+12,Brama Zachodnia,1,Zabiegi małe,0.0,0.0
+13,Brama Zachodnia,1,Znieczulenia,0.0,500.0
+14,Brama Zachodnia,2,Badania labolatoryjne,0.0,0.0
+15,Brama Zachodnia,2,EUS,0.0,0.0
+16,Brama Zachodnia,2,Endoskopie,0.0,6300.0
+17,Brama Zachodnia,2,Inne,0.0,0.0
+18,Brama Zachodnia,2,Konsultacje,0.0,0.0
+19,Brama Zachodnia,2,Patomorfologia,0.0,0.0
+20,Brama Zachodnia,2,RIRS,0.0,0.0
+21,Brama Zachodnia,2,RTG,0.0,0.0
+22,Brama Zachodnia,2,TK,0.0,0.0
+23,Brama Zachodnia,2,TX wysp,0.0,0.0
+24,Brama Zachodnia,2,USG,0.0,0.0
+25,Brama Zachodnia,2,Zabiegi,0.0,0.0
+26,Brama Zachodnia,2,Zabiegi małe,0.0,0.0
+27,Brama Zachodnia,2,Znieczulenia,0.0,3300.0
+28,Brama Zachodnia,3,Badania labolatoryjne,0.0,0.0
+29,Brama Zachodnia,3,EUS,0.0,0.0
+30,Brama Zachodnia,3,Endoskopie,0.0,59459.0
+31,Brama Zachodnia,3,Inne,0.0,3.0
+32,Brama Zachodnia,3,Konsultacje,0.0,21520.0
+33,Brama Zachodnia,3,Patomorfologia,0.0,2300.0
+34,Brama Zachodnia,3,RIRS,0.0,0.0
+35,Brama Zachodnia,3,RTG,0.0,0.0
+36,Brama Zachodnia,3,TK,0.0,0.0
+37,Brama Zachodnia,3,TX wysp,0.0,0.0
+38,Brama Zachodnia,3,USG,0.0,0.0
+39,Brama Zachodnia,3,Zabiegi,0.0,0.0
+40,Brama Zachodnia,3,Zabiegi małe,0.0,0.0
+41,Brama Zachodnia,3,Znieczulenia,0.0,34600.0
+42,Brama Zachodnia,4,Badania labolatoryjne,12993.75,4097.6
+43,Brama Zachodnia,4,EUS,0.0,0.0
+44,Brama Zachodnia,4,Endoskopie,62400.0,100282.0
+45,Brama Zachodnia,4,Inne,7875.0,900.93
+46,Brama Zachodnia,4,Konsultacje,78750.0,88877.0
+47,Brama Zachodnia,4,Patomorfologia,22464.0,20355.0
+48,Brama Zachodnia,4,RIRS,0.0,0.0
+49,Brama Zachodnia,4,RTG,0.0,0.0
+50,Brama Zachodnia,4,TK,0.0,0.0
+51,Brama Zachodnia,4,TX wysp,0.0,0.0
+52,Brama Zachodnia,4,USG,9600.0,4580.0
+53,Brama Zachodnia,4,Zabiegi,0.0,0.0
+54,Brama Zachodnia,4,Zabiegi małe,4500.0,0.0
+55,Brama Zachodnia,4,Znieczulenia,33000.0,47330.0
+56,Brama Zachodnia,5,Badania labolatoryjne,15592.5,955.0
+57,Brama Zachodnia,5,EUS,14750.0,5980.0
+58,Brama Zachodnia,5,Endoskopie,93600.0,47600.0
+59,Brama Zachodnia,5,Inne,9450.0,45.0
+60,Brama Zachodnia,5,Konsultacje,94500.0,49288.0
+61,Brama Zachodnia,5,Patomorfologia,33696.0,12010.0
+62,Brama Zachodnia,5,RIRS,0.0,0.0
+63,Brama Zachodnia,5,RTG,4000.0,0.0
+64,Brama Zachodnia,5,TK,9000.0,0.0
+65,Brama Zachodnia,5,TX wysp,0.0,0.0
+66,Brama Zachodnia,5,USG,12800.0,0.0
+67,Brama Zachodnia,5,Zabiegi,0.0,0.0
+68,Brama Zachodnia,5,Zabiegi małe,9000.0,0.0
+69,Brama Zachodnia,5,Znieczulenia,49500.0,18880.0
+70,Brama Zachodnia,6,Badania labolatoryjne,15592.5,0.0
+71,Brama Zachodnia,6,EUS,17700.0,0.0
+72,Brama Zachodnia,6,Endoskopie,104000.0,0.0
+73,Brama Zachodnia,6,Inne,9450.0,0.0
+74,Brama Zachodnia,6,Konsultacje,94500.0,0.0
+75,Brama Zachodnia,6,Patomorfologia,37440.0,0.0
+76,Brama Zachodnia,6,RIRS,0.0,0.0
+77,Brama Zachodnia,6,RTG,4000.0,0.0
+78,Brama Zachodnia,6,TK,13500.0,0.0
+79,Brama Zachodnia,6,TX wysp,0.0,0.0
+80,Brama Zachodnia,6,USG,16000.0,0.0
+81,Brama Zachodnia,6,Zabiegi,0.0,0.0
+82,Brama Zachodnia,6,Zabiegi małe,9000.0,0.0
+83,Brama Zachodnia,6,Znieczulenia,55000.0,0.0
+84,Brama Zachodnia,7,Badania labolatoryjne,12993.75,0.0
+85,Brama Zachodnia,7,EUS,8850.0,0.0
+86,Brama Zachodnia,7,Endoskopie,83200.0,0.0
+87,Brama Zachodnia,7,Inne,7875.0,0.0
+88,Brama Zachodnia,7,Konsultacje,78750.0,0.0
+89,Brama Zachodnia,7,Patomorfologia,29952.0,0.0
+90,Brama Zachodnia,7,RIRS,0.0,0.0
+91,Brama Zachodnia,7,RTG,6000.0,0.0
+92,Brama Zachodnia,7,TK,13500.0,0.0
+93,Brama Zachodnia,7,TX wysp,0.0,0.0
+94,Brama Zachodnia,7,USG,12800.0,0.0
+95,Brama Zachodnia,7,Zabiegi,0.0,0.0
+96,Brama Zachodnia,7,Zabiegi małe,6750.0,0.0
+97,Brama Zachodnia,7,Znieczulenia,44000.0,0.0
+98,Brama Zachodnia,8,Badania labolatoryjne,20790.0,0.0
+99,Brama Zachodnia,8,EUS,32450.0,0.0
+100,Brama Zachodnia,8,Endoskopie,104000.0,0.0
+101,Brama Zachodnia,8,Inne,12600.0,0.0
+102,Brama Zachodnia,8,Konsultacje,126000.0,0.0
+103,Brama Zachodnia,8,Patomorfologia,37440.0,0.0
+104,Brama Zachodnia,8,RIRS,0.0,0.0
+105,Brama Zachodnia,8,RTG,10000.0,0.0
+106,Brama Zachodnia,8,TK,22500.0,0.0
+107,Brama Zachodnia,8,TX wysp,0.0,0.0
+108,Brama Zachodnia,8,USG,19200.0,0.0
+109,Brama Zachodnia,8,Zabiegi,0.0,0.0
+110,Brama Zachodnia,8,Zabiegi małe,6750.0,0.0
+111,Brama Zachodnia,8,Znieczulenia,55000.0,0.0
+112,Brama Zachodnia,9,Badania labolatoryjne,23388.75,0.0
+113,Brama Zachodnia,9,EUS,45000.0,0.0
+114,Brama Zachodnia,9,Endoskopie,114400.0,0.0
+115,Brama Zachodnia,9,Inne,14175.0,0.0
+116,Brama Zachodnia,9,Konsultacje,141750.0,0.0
+117,Brama Zachodnia,9,Patomorfologia,41184.0,0.0
+118,Brama Zachodnia,9,RIRS,0.0,0.0
+119,Brama Zachodnia,9,RTG,14000.0,0.0
+120,Brama Zachodnia,9,TK,30000.0,0.0
+121,Brama Zachodnia,9,TX wysp,0.0,0.0
+122,Brama Zachodnia,9,USG,22400.0,0.0
+123,Brama Zachodnia,9,Zabiegi,0.0,0.0
+124,Brama Zachodnia,9,Zabiegi małe,11250.0,0.0
+125,Brama Zachodnia,9,Znieczulenia,60500.0,0.0
+126,Brama Zachodnia,10,Badania labolatoryjne,31185.0,0.0
+127,Brama Zachodnia,10,EUS,54000.0,0.0
+128,Brama Zachodnia,10,Endoskopie,124800.0,0.0
+129,Brama Zachodnia,10,Inne,18900.0,0.0
+130,Brama Zachodnia,10,Konsultacje,189000.0,0.0
+131,Brama Zachodnia,10,Patomorfologia,44928.0,0.0
+132,Brama Zachodnia,10,RIRS,0.0,0.0
+133,Brama Zachodnia,10,RTG,16000.0,0.0
+134,Brama Zachodnia,10,TK,35000.0,0.0
+135,Brama Zachodnia,10,TX wysp,0.0,0.0
+136,Brama Zachodnia,10,USG,25600.0,0.0
+137,Brama Zachodnia,10,Zabiegi,0.0,0.0
+138,Brama Zachodnia,10,Zabiegi małe,13500.0,0.0
+139,Brama Zachodnia,10,Znieczulenia,66000.0,0.0
+140,Brama Zachodnia,11,Badania labolatoryjne,31185.0,0.0
+141,Brama Zachodnia,11,EUS,60000.0,0.0
+142,Brama Zachodnia,11,Endoskopie,104000.0,0.0
+143,Brama Zachodnia,11,Inne,18900.0,0.0
+144,Brama Zachodnia,11,Konsultacje,189000.0,0.0
+145,Brama Zachodnia,11,Patomorfologia,37440.0,0.0
+146,Brama Zachodnia,11,RIRS,0.0,0.0
+147,Brama Zachodnia,11,RTG,16000.0,0.0
+148,Brama Zachodnia,11,TK,45000.0,0.0
+149,Brama Zachodnia,11,TX wysp,0.0,0.0
+150,Brama Zachodnia,11,USG,28800.0,0.0
+151,Brama Zachodnia,11,Zabiegi,0.0,0.0
+152,Brama Zachodnia,11,Zabiegi małe,11250.0,0.0
+153,Brama Zachodnia,11,Znieczulenia,55000.0,0.0
+154,Brama Zachodnia,12,Badania labolatoryjne,31185.0,0.0
+155,Brama Zachodnia,12,EUS,60000.0,0.0
+156,Brama Zachodnia,12,Endoskopie,104000.0,0.0
+157,Brama Zachodnia,12,Inne,18900.0,0.0
+158,Brama Zachodnia,12,Konsultacje,189000.0,0.0
+159,Brama Zachodnia,12,Patomorfologia,37440.0,0.0
+160,Brama Zachodnia,12,RIRS,0.0,0.0
+161,Brama Zachodnia,12,RTG,14000.0,0.0
+162,Brama Zachodnia,12,TK,40000.0,0.0
+163,Brama Zachodnia,12,TX wysp,0.0,0.0
+164,Brama Zachodnia,12,USG,25600.0,0.0
+165,Brama Zachodnia,12,Zabiegi,0.0,0.0
+166,Brama Zachodnia,12,Zabiegi małe,9000.0,0.0
+167,Brama Zachodnia,12,Znieczulenia,55000.0,0.0
+168,Spokojna,1,Ambulatorium,37665.0,9550.92
+169,Spokojna,1,Badania kliniczne,0.0,0.0
+170,Spokojna,1,Badania labolatoryjne,70147.25,72220.29
+171,Spokojna,1,Endoskopie,183090.0,241788.99
+172,Spokojna,1,Inne,38119.0,35192.75
+173,Spokojna,1,Konsultacje,376650.0,393851.0
+174,Spokojna,1,Małe zabiegi,45000.0,47790.0
+175,Spokojna,1,Patomorfologia,65912.4,40945.0
+176,Spokojna,1,Testy oddechowe,9000.0,9545.0
+177,Spokojna,1,USG,42900.0,42580.0
+178,Spokojna,1,Zabiegi,175000.0,178341.04
+179,Spokojna,1,Znieczulenia,114851.00000000001,140300.0
+180,Spokojna,2,Ambulatorium,33458.5,6825.0
+181,Spokojna,2,Badania kliniczne,0.0,0.0
+182,Spokojna,2,Badania labolatoryjne,63206.525,69908.2
+183,Spokojna,2,Endoskopie,183090.0,180703.0
+184,Spokojna,2,Inne,25505.0,24181.06
+185,Spokojna,2,Konsultacje,334585.0,350167.0
+186,Spokojna,2,Małe zabiegi,28800.0,29580.0
+187,Spokojna,2,Patomorfologia,65912.4,38420.0
+188,Spokojna,2,Testy oddechowe,9000.0,9740.0
+189,Spokojna,2,USG,33900.0,34150.0
+190,Spokojna,2,Zabiegi,125000.0,123150.0
+191,Spokojna,2,Znieczulenia,111936.0,91260.0
+192,Spokojna,3,Ambulatorium,40757.200000000004,9768.64
+193,Spokojna,3,Badania kliniczne,0.0,0.0
+194,Spokojna,3,Badania labolatoryjne,75249.38,72507.5
+195,Spokojna,3,Endoskopie,201960.0,190918.0
+196,Spokojna,3,Inne,33499.0,30510.96
+197,Spokojna,3,Konsultacje,407572.0,423536.0
+198,Spokojna,3,Małe zabiegi,49500.0,47090.0
+199,Spokojna,3,Patomorfologia,72705.59999999999,48620.0
+200,Spokojna,3,Testy oddechowe,9000.0,9110.0
+201,Spokojna,3,USG,40000.0,39820.0
+202,Spokojna,3,Zabiegi,150000.0,162250.0
+203,Spokojna,3,Znieczulenia,124179.0,91180.0
+204,Spokojna,4,Ambulatorium,37800.0,9286.0
+205,Spokojna,4,Badania kliniczne,0.0,0.0
+206,Spokojna,4,Badania labolatoryjne,71370.0,84798.56
+207,Spokojna,4,Endoskopie,192400.0,150099.5
+208,Spokojna,4,Inne,30000.0,28670.97
+209,Spokojna,4,Konsultacje,378000.0,310800.5
+210,Spokojna,4,Małe zabiegi,38500.0,37280.0
+211,Spokojna,4,Patomorfologia,69264.0,42020.0
+212,Spokojna,4,Testy oddechowe,9000.0,12015.0
+213,Spokojna,4,USG,51200.0,25460.0
+214,Spokojna,4,Zabiegi,175000.0,210400.0
+215,Spokojna,4,Znieczulenia,118057.5,93500.0
+216,Spokojna,5,Ambulatorium,37800.0,5413.0
+217,Spokojna,5,Badania kliniczne,0.0,0.0
+218,Spokojna,5,Badania labolatoryjne,71370.0,44984.71
+219,Spokojna,5,Endoskopie,192400.0,83058.0
+220,Spokojna,5,Inne,30000.0,16540.51
+221,Spokojna,5,Konsultacje,378000.0,179545.0
+222,Spokojna,5,Małe zabiegi,38500.0,33070.0
+223,Spokojna,5,Patomorfologia,69264.0,23500.0
+224,Spokojna,5,Testy oddechowe,9500.0,5085.0
+225,Spokojna,5,USG,51200.0,19050.0
+226,Spokojna,5,Zabiegi,150000.0,95375.0
+227,Spokojna,5,Znieczulenia,116600.0,46100.0
+228,Spokojna,6,Ambulatorium,37800.0,0.0
+229,Spokojna,6,Badania kliniczne,10000.0,0.0
+230,Spokojna,6,Badania labolatoryjne,71370.0,0.0
+231,Spokojna,6,Endoskopie,192400.0,0.0
+232,Spokojna,6,Inne,20000.0,0.0
+233,Spokojna,6,Konsultacje,378000.0,0.0
+234,Spokojna,6,Małe zabiegi,27500.0,0.0
+235,Spokojna,6,Patomorfologia,69264.0,0.0
+236,Spokojna,6,Testy oddechowe,10000.0,0.0
+237,Spokojna,6,USG,48000.0,0.0
+238,Spokojna,6,Zabiegi,200000.0,0.0
+239,Spokojna,6,Znieczulenia,119515.0,0.0
+240,Spokojna,7,Ambulatorium,34650.0,0.0
+241,Spokojna,7,Badania kliniczne,10000.0,0.0
+242,Spokojna,7,Badania labolatoryjne,63172.5,0.0
+243,Spokojna,7,Endoskopie,182000.0,0.0
+244,Spokojna,7,Inne,20000.0,0.0
+245,Spokojna,7,Konsultacje,346500.0,0.0
+246,Spokojna,7,Małe zabiegi,27500.0,0.0
+247,Spokojna,7,Patomorfologia,65520.0,0.0
+248,Spokojna,7,Testy oddechowe,9000.0,0.0
+249,Spokojna,7,USG,44800.0,0.0
+250,Spokojna,7,Zabiegi,175000.0,0.0
+251,Spokojna,7,Znieczulenia,112227.5,0.0
+252,Spokojna,8,Ambulatorium,44100.0,0.0
+253,Spokojna,8,Badania kliniczne,10000.0,0.0
+254,Spokojna,8,Badania labolatoryjne,81765.0,0.0
+255,Spokojna,8,Endoskopie,208000.0,0.0
+256,Spokojna,8,Inne,30000.0,0.0
+257,Spokojna,8,Konsultacje,441000.0,0.0
+258,Spokojna,8,Małe zabiegi,38500.0,0.0
+259,Spokojna,8,Patomorfologia,74880.0,0.0
+260,Spokojna,8,Testy oddechowe,11000.0,0.0
+261,Spokojna,8,USG,64000.0,0.0
+262,Spokojna,8,Zabiegi,225000.0,0.0
+263,Spokojna,8,Znieczulenia,129717.50000000001,0.0
+264,Spokojna,9,Ambulatorium,47250.0,0.0
+265,Spokojna,9,Badania kliniczne,20000.0,0.0
+266,Spokojna,9,Badania labolatoryjne,87962.5,0.0
+267,Spokojna,9,Endoskopie,218400.0,0.0
+268,Spokojna,9,Inne,35000.0,0.0
+269,Spokojna,9,Konsultacje,472500.0,0.0
+270,Spokojna,9,Małe zabiegi,44000.0,0.0
+271,Spokojna,9,Patomorfologia,78624.0,0.0
+272,Spokojna,9,Testy oddechowe,12000.0,0.0
+273,Spokojna,9,USG,70400.0,0.0
+274,Spokojna,9,Zabiegi,275000.0,0.0
+275,Spokojna,9,Znieczulenia,137005.0,0.0
+276,Spokojna,10,Ambulatorium,50400.0,0.0
+277,Spokojna,10,Badania kliniczne,20000.0,0.0
+278,Spokojna,10,Badania labolatoryjne,93160.0,0.0
+279,Spokojna,10,Endoskopie,234000.0,0.0
+280,Spokojna,10,Inne,40000.0,0.0
+281,Spokojna,10,Konsultacje,504000.0,0.0
+282,Spokojna,10,Małe zabiegi,60500.0,0.0
+283,Spokojna,10,Patomorfologia,84240.0,0.0
+284,Spokojna,10,Testy oddechowe,12000.0,0.0
+285,Spokojna,10,USG,76800.0,0.0
+286,Spokojna,10,Zabiegi,330000.0,0.0
+287,Spokojna,10,Znieczulenia,148665.0,0.0
+288,Spokojna,11,Ambulatorium,50400.0,0.0
+289,Spokojna,11,Badania kliniczne,30000.0,0.0
+290,Spokojna,11,Badania labolatoryjne,93160.0,0.0
+291,Spokojna,11,Endoskopie,197600.0,0.0
+292,Spokojna,11,Inne,20000.0,0.0
+293,Spokojna,11,Konsultacje,504000.0,0.0
+294,Spokojna,11,Małe zabiegi,44000.0,0.0
+295,Spokojna,11,Patomorfologia,71136.0,0.0
+296,Spokojna,11,Testy oddechowe,11000.0,0.0
+297,Spokojna,11,USG,76800.0,0.0
+298,Spokojna,11,Zabiegi,302500.0,0.0
+299,Spokojna,11,Znieczulenia,126802.5,0.0
+300,Spokojna,12,Ambulatorium,44100.0,0.0
+301,Spokojna,12,Badania kliniczne,30000.0,0.0
+302,Spokojna,12,Badania labolatoryjne,81765.0,0.0
+303,Spokojna,12,Endoskopie,208000.0,0.0
+304,Spokojna,12,Inne,15000.0,0.0
+305,Spokojna,12,Konsultacje,441000.0,0.0
+306,Spokojna,12,Małe zabiegi,38500.0,0.0
+307,Spokojna,12,Patomorfologia,74880.0,0.0
+308,Spokojna,12,Testy oddechowe,10000.0,0.0
+309,Spokojna,12,USG,64000.0,0.0
+310,Spokojna,12,Zabiegi,247500.0,0.0
+311,Spokojna,12,Znieczulenia,129717.50000000001,0.0
